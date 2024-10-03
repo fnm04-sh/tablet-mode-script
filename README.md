@@ -1,7 +1,8 @@
 <img align="right" src="https://github.com/fnm04-sh/tablet-mode-script/blob/main/tablet_mode.jpg" width="450" alt="da">
 
 
-# Turning on Tablet mode on any WoA Device
+#
+Turning on Tablet mode on any WoA Device
 
 ## What is this?
 This is a small script that allows you to enable tablet mode for any WoA Devices
