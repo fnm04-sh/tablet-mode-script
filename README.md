@@ -10,7 +10,7 @@ This is a small script that allows you to enable tablet mode for any WoA Devices
 Bet at your own peril and risk, I am not responsible if something breaks or something goes wrong
 
 ## Where can I download?
-Check the "Releases" tab, the script will be updated
+You can download this script by this [link](https://github.com/Misha803/My-Scripts/releases/tag/Optimized-Taskbar-Control)
 
 ## Contributors
 
