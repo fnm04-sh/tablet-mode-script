@@ -15,3 +15,4 @@ Check the "Releases" tab, the script will be updated
 ## Contributors
 
 [<img alt="fnm04-sh" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91214755?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/fnm04-sh)
+[<img alt="Misha803" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/118528504?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Misha803)
