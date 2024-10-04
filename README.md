@@ -4,7 +4,7 @@
 # Turning on Tablet mode on any WoA Device
 
 ## Сhoose your language
-**English** | [`Pусский`](README.md)
+**English** | [`Pусский`](README-ru.md)
 
 ## What is this?
 This is a small script that allows you to enable tablet mode for any WoA Devices
