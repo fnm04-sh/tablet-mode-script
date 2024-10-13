@@ -9,6 +9,9 @@
 ## What is this?
 This is a small script that allows you to enable tablet mode for any WoA Devices
 
+## How to use?
+Just open the script and use
+
 ## ⚠️ Warning
 Bet at your own peril and risk, I am not responsible if something breaks or something goes wrong
 
